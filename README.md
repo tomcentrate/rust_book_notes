@@ -14,3 +14,4 @@ Cargo is the package manager. You can use the following commands:
 - `cargo build --release` - build release version
 - `cargo run` - build and run
 - `cargo new <app_name> -- bin` - create a new binary (project)
+- `cargo doc --open` - search and open up the documentation
